@@ -1,0 +1,11 @@
+.yellow, .grey{
+	display: inline-block;
+}
+.yellow{
+	background-color: #FAF703;
+    
+}
+.grey{
+	background-color: #454242;
+	color: #FFF;
+}

@@ -1,0 +1,20 @@
+
+.yellow, .grey{ 
+	/* aquí se refactorizan las características en 
+	común de ambas classes (DRY) */
+	height: 100px;
+	margin: 10px;
+    padding: 10px;
+}
+
+.yellow {
+	
+	background-color: #F8F00B;
+	
+}
+.grey{
+	
+	background-color: #696464;
+	color: #FFF;
+	
+}
